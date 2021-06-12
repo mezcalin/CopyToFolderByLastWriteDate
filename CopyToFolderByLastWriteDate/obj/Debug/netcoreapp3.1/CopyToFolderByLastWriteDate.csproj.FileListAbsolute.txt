@@ -1,0 +1,13 @@
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDate\bin\Debug\netcoreapp3.1\CopyToFolderByLastWriteDate.exe
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDate\bin\Debug\netcoreapp3.1\CopyToFolderByLastWriteDate.deps.json
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDate\bin\Debug\netcoreapp3.1\CopyToFolderByLastWriteDate.runtimeconfig.json
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDate\bin\Debug\netcoreapp3.1\CopyToFolderByLastWriteDate.runtimeconfig.dev.json
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDate\bin\Debug\netcoreapp3.1\CopyToFolderByLastWriteDate.dll
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDate\bin\Debug\netcoreapp3.1\CopyToFolderByLastWriteDate.pdb
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDate\obj\Debug\netcoreapp3.1\CopyToFolderByLastWriteDate.csprojAssemblyReference.cache
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDate\obj\Debug\netcoreapp3.1\CopyToFolderByLastWriteDate.AssemblyInfoInputs.cache
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDate\obj\Debug\netcoreapp3.1\CopyToFolderByLastWriteDate.AssemblyInfo.cs
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDate\obj\Debug\netcoreapp3.1\CopyToFolderByLastWriteDate.csproj.CoreCompileInputs.cache
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDate\obj\Debug\netcoreapp3.1\CopyToFolderByLastWriteDate.dll
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDate\obj\Debug\netcoreapp3.1\CopyToFolderByLastWriteDate.pdb
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDate\obj\Debug\netcoreapp3.1\CopyToFolderByLastWriteDate.genruntimeconfig.cache
