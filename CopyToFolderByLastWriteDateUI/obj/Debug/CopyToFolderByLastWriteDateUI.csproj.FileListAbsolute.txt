@@ -1,0 +1,10 @@
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDateUI\bin\Debug\CopyToFolderByLastWriteDateUI.exe.config
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDateUI\bin\Debug\CopyToFolderByLastWriteDateUI.exe
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDateUI\bin\Debug\CopyToFolderByLastWriteDateUI.pdb
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDateUI\obj\Debug\CopyToFolderByLastWriteDateUI.Properties.Resources.resources
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDateUI\obj\Debug\CopyToFolderByLastWriteDateUI.csproj.GenerateResource.cache
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDateUI\obj\Debug\CopyToFolderByLastWriteDateUI.csproj.CoreCompileInputs.cache
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDateUI\obj\Debug\CopyToFolderByLastWriteDateUI.exe
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDateUI\obj\Debug\CopyToFolderByLastWriteDateUI.pdb
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDateUI\obj\Debug\CopyToFolderByLastWriteDateUI.MainForm.resources
+C:\Users\Henrietta\source\repos\CopyToFolderByLastWriteDate\CopyToFolderByLastWriteDateUI\obj\Debug\CopyToFolderByLastWriteDateUI.csproj.AssemblyReference.cache
