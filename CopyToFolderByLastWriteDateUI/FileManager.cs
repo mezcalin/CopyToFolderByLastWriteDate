@@ -1,15 +1,17 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 
 namespace CopyToFolderByLastWriteDateUI
 {
     class FileManager
     {
-        public string LogString { get; private set; }
+        private List<string> _logString;
+        public List<string> LogString => _logString;
 
-        public FileManager(string logString)
+        public FileManager()
         {
-            LogString = logString;
+            _logString = new List<string>();
         }
 
         public void MoveFiles(string sourceDir)
@@ -69,7 +71,7 @@ namespace CopyToFolderByLastWriteDateUI
                         skippedFiles++;
                     }
                 }
-                WriteToLog($"> {destFileCount} files copied.");
+                WriteToLog($"> {destFileCount} files moved.");
                 WriteToLog($"> {skippedFiles} files skipped.");
             }
             catch (Exception ex)
@@ -79,7 +81,7 @@ namespace CopyToFolderByLastWriteDateUI
         }
         private void WriteToLog(string logString)
         {
-            LogString += logString;
+            _logString.Add(logString);
         }
     }
 }

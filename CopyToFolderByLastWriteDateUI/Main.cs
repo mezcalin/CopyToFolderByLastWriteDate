@@ -27,9 +27,10 @@ namespace CopyToFolderByLastWriteDateUI
             }
             try
             {
-                FileManager fileManager = new FileManager("");
+                FileManager fileManager = new FileManager();
                 fileManager.MoveFiles(sourceDir);
-                WriteToLog(fileManager.LogString);
+                foreach(string logString in fileManager.LogString)
+                    WriteToLog(logString);
             }
             catch (ArgumentException ex)
             {
@@ -43,7 +44,7 @@ namespace CopyToFolderByLastWriteDateUI
 
         private void WriteToLog(string logString)
         {
-            txt_log.AppendText(logString);
+            _ = lbx_log.Items.Add(logString);
         }
 
         private void btn_selectSourceDir_Click(object sender, EventArgs e)
